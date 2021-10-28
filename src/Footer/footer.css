@@ -1,0 +1,10 @@
+.Footer {
+  display: flex;
+
+  column-gap: 250px;
+  justify-content: center;
+  flex-direction: column;
+  background-image: linear-gradient(rgb(255, 255, 255), rgb(107, 138, 119));
+  align-items: center;
+  margin-left: auto;
+}

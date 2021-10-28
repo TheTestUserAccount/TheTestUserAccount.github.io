@@ -31,6 +31,10 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### `npm run eject`
 
+eject when you don't want to have a managed workflow instead of bare workflow in the middle so that no one should be able to work in the middle of the manages workflow in the expo managed workflow in the react project.
+
+**Note**
+
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
 If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.

@@ -1,0 +1,6 @@
+.footerDiv {
+  display: flex;
+  background-color: rgb(33, 77, 77);
+  margin-left: auto;
+  justify-content: center;
+}

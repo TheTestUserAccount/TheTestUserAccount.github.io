@@ -1,3 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Teko:wght@500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Urbanist:wght@100&display=swap");
+body {
+  font-family: "Bebas Neue", cursive;
+  background-image: linear-gradient(to top, #f7f4f1 0%);
+  background-color: rgb(243, 239, 239);
+}
+.contentfont {
+  font-family: "Urbanist", sans-serif;
+}
+html {
+  /*Prevent scroll-bar from adding-up to the Width of page on Chrome*/
+  overflow-y: overlay;
+}
+
 .App {
   text-align: center;
 }
@@ -14,8 +29,22 @@
 }
 
 .App-header {
+  position: fixed;
   background-color: #282c34;
-  min-height: 100vh;
+  min-height: 10vh;
+  display: flex;
+  margin-top: 0px;
+  width: 100%;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-main {
+  background-color: #61dafb;
+  min-height: 300vh;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -23,7 +52,6 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
-
 .App-link {
   color: #61dafb;
 }
