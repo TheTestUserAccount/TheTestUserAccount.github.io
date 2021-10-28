@@ -25,7 +25,7 @@ function Contact() {
           <h1>FormSubmit Demo</h1>
           <form
             target="_blank"
-            action="Use this random-like string ab828f4d141592f76adbc3aa4e271f72 to replace your naked email address in the action attribute of your form."
+            action="ab828f4d141592f76adbc3aa4e271f72"
             method="POST"
           >
             <div class="form-group">
