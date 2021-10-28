@@ -25,7 +25,7 @@ function Contact() {
           <h1>FormSubmit Demo</h1>
           <form
             target="_blank"
-            action="ab828f4d141592f76adbc3aa4e271f72"
+            action="https://formsubmit.co/haiderqadir026@gmail.com"
             method="POST"
           >
             <div class="form-group">
