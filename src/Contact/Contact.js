@@ -48,7 +48,7 @@ function Contact() {
                     required
                   ></input>
 
-<input type="hidden" name="_next" value="https://yourdomain.co/thanks.html">
+<input type="hidden" name="_next" value="https://www.google.com ">
                 </div>
               </div>
             </div>
