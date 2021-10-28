@@ -47,6 +47,8 @@ function Contact() {
                     placeholder="Email Address"
                     required
                   ></input>
+
+<input type="hidden" name="_next" value="https://yourdomain.co/thanks.html">
                 </div>
               </div>
             </div>
@@ -62,6 +64,7 @@ function Contact() {
             <button type="submit" class="btn btn-lg btn-dark btn-block">
               Submit Form
             </button>
+
           </form>
         </div>
       </div>
