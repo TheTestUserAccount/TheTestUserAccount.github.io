@@ -48,7 +48,11 @@ function Contact() {
                     required
                   ></input>
 
-<input type="hidden" name="_next" value="https://www.google.com ">
+  <input
+                    type="hidden"
+                    name="_next"
+                    value="https://testnew1234.netlify.app/Contact"
+                  ></input>
                 </div>
               </div>
             </div>
